@@ -1,22 +1,14 @@
-- 👋 Oi, eu sou Yuri Geovane
-- 👀 Estou interessado em análise de dados, IA.
-- 🎓 Atualmente, estou cursando bacharelado em Sistema da informação mas tambem tenho diploma em Direito
-- 🌱 Atualmente, estou aprendendo JavaScript, Python e conceitos de Machine Learning.
-- 💞️ Estou procurando colaborar em projetos que envolvam análise de dados, Machine Learning.
-- ⚡ Curiosidade: Sou apaixonado por explorar novas tecnologias e gosto de resolver problemas complexos, especialmente aqueles que envolvem grandes volumes de dados.
+# 👋 Hi, I'm Yuri Geovane
+
+- 👀 I'm interested in data analysis and Artificial Intelligence.
+- 🎓 Currently pursuing a Bachelor's degree in Information Systems at Pontifical Catholic University of Minas Gerais (PUC - Minas)  
+- 🌱 Currently learning JavaScript, Python, and Machine Learning concepts.
+- 💞️ I'm looking to collaborate on projects involving data analysis and Machine Learning.
+- ⚡ Fun fact: I'm a law graduate who recently transitioned into tech. I'm passionate about exploring new technologies and enjoy solving complex problems, especially those involving large volumes of data.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Yuri-Martiniano&show_icons=true&theme=radical)](https://github.com/Yuri-Martiniano)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Martiniano&layout=compact&theme=radical)](https://github.com/Yuri-Martiniano)
-
----
-
----
-
-### Technologies & Tools:
+### echnologies & Tools I use regularly:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
@@ -27,13 +19,22 @@
 
 ---
 
-### 🏆 Conquistas no GitHub
+### 🏆 GitHub Achievements
 
 [![Troféus](https://github-profile-trophy.vercel.app/?username=Yuri-Martiniano&theme=radical&row=2&column=3)](https://github.com/Yuri-Martiniano)
 
 ---
 
-### 🌐 Conecte-se comigo:
+---
+
+### 📊 My GitHub Stats
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Yuri-Martiniano&show_icons=true&theme=radical)](https://github.com/Yuri-Martiniano)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Martiniano&layout=compact&theme=radical)](https://github.com/Yuri-Martiniano)
+
+---
+
+### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yurigeovane)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuri.martiniano@hotmail.com)
 <!---
