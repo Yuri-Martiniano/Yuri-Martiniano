@@ -36,10 +36,11 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg)](https://www.linkedin.com/in/yurigeovane)
-[![Email](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg)](mailto:yuri.martiniano@hotmail.com)
-[![Instagram](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg)](https://www.instagram.com/yuri_geovane?igsh=MWV4ZGV1bjZzdTFleA==)
-[![Discord](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg)](https://discord.com/users/saitama001231)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/yurigeovane)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Email" width="40" height="40"/>](mailto:yuri.martiniano@hotmail.com)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="Instagram" width="40" height="40"/>](https://www.instagram.com/yuri_geovane?igsh=MWV4ZGV1bjZzdTFleA==)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord" width="40" height="40"/>](https://discord.com/users/saitama001231)
+
 <!---
 Yuri-Martiniano/Yuri-Martiniano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
